@@ -1,0 +1,13 @@
+###################################################################
+##
+## Exercise 1 Print Welcome Message
+##
+###################################################################
+##
+cat ("Welcome to My R  course\n") # Aything between quotes is printed
+
+cat ("\b\b Good that you have stared R programs \n")
+
+## Welcome to My R  course
+## Good that you have stared R programs
+##
